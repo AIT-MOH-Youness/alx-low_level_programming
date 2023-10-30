@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-
+#include <stdio.h>
 /**
  * main - Entry point
  * this code shows the sign of an integer
@@ -26,3 +26,4 @@ printf("%d is negative\n", n);
 }
 return (0);
 }
+
