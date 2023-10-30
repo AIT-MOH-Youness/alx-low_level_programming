@@ -5,7 +5,7 @@
 /**
  * main - Entry point
  * Description : print the last digit of the number stored in the variable
- * Return : Always zero value
+ * Return: Always zero value
 */
 
 int main(void)
