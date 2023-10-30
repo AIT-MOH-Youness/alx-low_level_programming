@@ -1,12 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
  * main - Entry point
  * this code shows the sign of an integer
- * Return : always 0 (succesfully)
+ * Return : Always 0 (succesfully)
  */
-
 int main(void)
 {
 int n;
