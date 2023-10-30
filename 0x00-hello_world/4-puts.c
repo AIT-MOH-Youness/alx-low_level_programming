@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Return: Always 0 
+ * a program that prints a message as string
+ * Return: Always 0 (Success)
 */
 int main(void)
 {
