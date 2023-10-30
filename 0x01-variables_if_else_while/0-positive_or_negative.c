@@ -4,8 +4,9 @@
 /**
  * main - Entry point
  * this code shows the sign of an integer
- * Return : always 0 (Done succesfully)
+ * Return : always 0 (succesfully)
  */
+
 int main(void)
 {
 int n;
